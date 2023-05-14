@@ -2,28 +2,28 @@
 
 ## Trình độ nhập môn
 
-### 1.1. [SEARCH_flag.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/SEARCH_flag.cpp)
+### 1.1. [SEARCH_flag.cpp](./SEARCH_flag.cpp)
 Tìm một số trong một mảng bằng lính canh.
 
-### 1.2. [BinarySEARCH.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/BinarySEARCH.cpp)
+### 1.2. [BinarySEARCH.cpp](./BinarySEARCH.cpp)
 Tìm một số trong một mảng đã có thứ tự (tìm nhị phân).
 
-### 1.3. [Add, Delete, Replace, Search (Array).cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/Add%2C%20Delete%2C%20Replace%2C%20Search%20(Array).cpp)
+### 1.3. [Add, Delete, Replace, Search (Array).cpp](./AddDeleteReplaceSearch-Array.cpp)
 Viết các thủ tục thêm, xóa, sửa, tìm kiếm một phần tử trong một mảng.
 
-### 1.4. [2Dim_to_1Dim.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/4.2ndDim--to--1stDim.cpp)
+### 1.4. [2Dim_to_1Dim.cpp](./4.2ndDim--to--1stDim.cpp)
 Viết hàm chuyển một mảng hai chiều thành một mảng một chiều.
 
-### 1.5. [1Dim_2_2Dim.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/5.1stDim--to--2ndDim.cpp)
+### 1.5. [1Dim_2_2Dim.cpp](./5.1stDim--to--2ndDim.cpp)
 Viết hàm chuyển một mảng một chiều có MxN phần tử sang một mảng 2 chiều kích thước MxN.
 
 ### 1.6.
 Thực hiện ghép 2 mảng một chiều A, B để tạo mảng C theo nguyên tắc từng phần tử của mảng A xen kẻ từng phần tử của mảng B.
 
-### 1.7. [chuanHoa.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/chuanHoa.cpp)
+### 1.7. [chuanHoa.cpp](./chuanHoa.cpp)
 Thực hiện xóa bỏ khoảng trắng thừa và viết hoa đầu từ một chuỗi ký tự cho trước.
 
-### 1.8. [min(diemLoi).cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/min(diemLoi).cpp)
+### 1.8. [min(diemLoi).cpp](./min(diemLoi).cpp)
 Cho ma trận A kích thước MxN (0<M,N<100) chứa các số thực nhỏ hơn 100000. Một điểm Xi,j được gọi là điểm lồi nếu như nó lớn hơn cả 4 điểm trên, dưới, trái, phải của nó.
 
 _Yêu cầu_: Tìm Xmin là điểm lồi có giá trị nhỏ nhất của mảng.
@@ -35,22 +35,22 @@ _Yêu cầu_: Tìm Xmin là điểm lồi có giá trị nhỏ nhất của mả
 
 <p align="center"><img src="images/1.8.png" alt="Ví dụ" height="128px" /></p>
 
-### 1.9. [decimal.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/decimal.cpp)
+### 1.9. [decimal.cpp](./decimal.cpp)
 Nhập vào một số dạng thập phân, chuyển sang dạng nhị phân, bát phân, thập lục phân.
 
-### 1.10. [DMY.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/DMY.cpp)
+### 1.10. [DMY.cpp](./DMY.cpp)
 Nhập vào d, m, y, kiểm tra (d,m,y) có lập thành một ngày tháng năm hay không, nếu có xuất ra ngày tiếp theo.
 
 ## Kỹ thuật lập trình
 
-### 1.11. [BigNum.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/BigNum.cpp)
+### 1.11. [BigNum.cpp](./BigNum.cpp)
 Tính tổng, hiệu 2 số nguyên lớn:
 
 _Hướng dẫn_:
 - Sử dụng kiểu dữ liệu chuỗi (mảng ký tự) cho từng số nguyên.
 - Làm bài tính tổng trước, làm được mới tính hiệu, xử lý từng trường hợp 2 số có độ dài bằng nhau, độ dài khác nhau...
 
-### 1.12. [GAME 35](https://github.com/ITUTE/HCMUTE/tree/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/GAME%2035)
+### 1.12. [GAME 35](../GAME%2035/)
 Cho các số 1, 2, 3, 4, 5 và tổng S ban đầu bằng 0. Có 2 người chơi lần lượt chọn một trong các số đã cho theo nguyên tắc không được số mà người kia vừa chọn
 trước đó, mỗi lần ai chọn đều cộng dồn vào tổng S.
 
@@ -65,10 +65,10 @@ Ai làm cho tổng S lớn hơn 35 là thua. Lập trình cho người chơi v�
 
 _Hướng dẫn_: Trò chơi được giải quyết bằng phương pháp Lập bảng phương án.
 
-### 1.13. [Minesweepers.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/Minesweepers.cpp)
+### 1.13. [Minesweepers.cpp](./Minesweepers.cpp)
 Lập ma trận giá trị bãi mìn cho trò chơi Minesweeper.
 
-### 1.14. (Ma trận kỳ ảo – Ma phương) [N_mp.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/N_mp.cpp) - [MaPhuong.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/MaPhuong.cpp)
+### 1.14. (Ma trận kỳ ảo – Ma phương) [N_mp.cpp](./N_mp.cpp) - [MaPhuong.cpp](./MaPhuong.cpp)
 Viết chương trình nhập vào số tự nhiên N (N lẻ), sau đó điền các số từ 1 đến `N^2` vào trong một bảng vuông sao cho tổng các hàng ngang, hàng dọc và 2 đường chéo đều bằng nhau.
 
 _Hướng dẫn_:
@@ -116,7 +116,7 @@ Có thể đặt ra bài toán khó hơn: Từ một trạng thái bất kỳ (m
 - Sử dụng khái niệm ”miền” trước đây. Hai miền khác nhau được gọi là đi cặp với nhau nếu chúng cùng số lượng ô.
 - Sau khi đã ghép được các cặp, còn một số miền chưa được ghép cặp: hãy khử số miền theo kiểu này song chú ý chớ nên tạo điều kiện cho đối thủ buộc ta rơi vào trạng thái thua.
 
-### 1.18. (Mở rộng của bài 7.7) [18.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/18.cpp)
+### 1.18. (Mở rộng của bài 7.7) [18.cpp](./18.cpp)
 Cho m, n là hai số tự nhiên. Cho trước một bảng hai chiều gồm m dòng, mỗi dòng có n cột các ô, mỗi ô được đánh dấu hoặc không được đánh dấu và chỉ ở một ttrong hai trạng thái nói trên mà thôi. Một trò chơi hai đấu thủ được mô tả như sau:
 
 - Đầu tiên toàn bộ m x n ô của bảng chưa bị đánh dấu.
@@ -130,7 +130,7 @@ Tìm chiến lược đi để người đi trước luôn thắng.
 _Hướng dẫn_:
 Hoàn toàn có thể sử dụng thuật toán đi đối xứng của bài trên để giải bài này. Có thể mở rộng bài toán như đã làm ở bài toán 3 song ở việc quản lý các miền khó khăn hơn rất nhiều.
 
-### 1.19. [MaTranKyAo.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/MaTranKyAo.cpp)
+### 1.19. [MaTranKyAo.cpp](./MaTranKyAo.cpp)
 Lập ma trận kỳ ảo theo cách khác bài 6.9 theo như hướng dẫn bên dưới.
 
 <p align="center"><img src="images/1.19.png" height="200px" /></p>
@@ -141,7 +141,7 @@ Lập ma trận kỳ ảo theo cách khác bài 6.9 theo như hướng dẫn bê
   - Nếu vượt ra phía ngoài bên trên của bảng thì quay trở lại dòng cuối cùng.
   - Nếu số đã điền k chia hết cho N thì số tiếp theo sẽ được viết trên cùng một hàng với k nhưng cách 1 ô về phía bên phải.
   
-### 1.20. [xoanoc.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/xoanoc.cpp) - [xoanoc2.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C1/xoanoc2.cpp)
+### 1.20. [xoanoc.cpp](./xoanoc.cpp) - [xoanoc2.cpp](./xoanoc2.cpp)
 Viết chương trình in ra các số nguyên từ 1 đến N2 theo hình xoắn ốc với N được nhập vào từ bàn phím. Ví dụ, với N=4 ta có:
 
 1 | 2 | 3 | 4

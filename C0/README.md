@@ -1,7 +1,8 @@
 # 1. KIỂU DỮ LIỆU CÓ CẤU TRÚC – NHẬP XUẤT DỮ LIỆU TRÊN TẬP TIN
 
-### 1.1. [HOCSINH.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C0/HOCSINH.cpp)
+### 1.1. [HOCSINH.cpp](./HOCSINH.cpp)
 Cho một lớp học gồm n học sinh (n≤50). Thông tin của một học sinh được định nghĩa theo kiểu dữ liệu của học sinh HOCSINH gồm:
+
 - Mã số học sinh (`MSHS`): chuỗi có tối đa 5 ký tự.
 - Họ tên (`hoten`): chuỗi có tối đa 30 ký tự.
 - Ngày tháng năm sinh (`ngaysinh`): kiểu DATE.
@@ -16,7 +17,7 @@ _Hướng dẫn_:
 - Xây dựng hàm nhập và xuất ngày tháng năm (Kiểu dữ liệu `DATE`).
 - Sau đó mới xây dựng hàm nhập và xuất cho danh sách học sinh.
 
-### 1.2. [ARR_PHANSO.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C0/ARR_PHANSO.cpp)
+### 1.2. [ARR_PHANSO.cpp](./ARR_PHANSO.cpp)
 Cho một mảng các phân số (`PHANSO`) gồm `n` phần tử (n≤50). Hãy viết chương trình nhập và xuất danh sách các phân số sau đó tìm phân số có giá trị lớn nhất, tổng và tích các phân số và nghịch đảo giá trị các phân số trong mảng.
 
 _Hướng dẫn_:
@@ -27,13 +28,13 @@ _Hướng dẫn_:
 ### 1.3. []()
 Viết chương trình sử dụng con trỏ cấu trúc để hiển thị giờ, phút, giây ra màn hình, tính khoảng cách giữa 2 mốc thời gian.
 
-### 1.4. [NGAY.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C0/NGAY.cpp)
+### 1.4. [NGAY.cpp](./NGAY.cpp)
 Viết chương trình sử dụng con trỏ cấu trúc thể hiện ngày, tháng, năm ra màn hình, và tính khoảng cách giữa 2 ngày.
 
 ### 1.5. []()
 Viết chương trình khai báo kiểu dữ liệu thể hiện một số phức. Sử dụng kiểu này để viết hàm tính tổng, hiệu, tích của hai số phức.
 
-### 1.6. [PHANSO.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C0/PHANSO.cpp)
+### 1.6. [PHANSO.cpp](./PHANSO.cpp)
 Viết chương trình khai báo kiểu dữ liệu để biểu diễn một phân số. Hãy viết hàm thực hiện những công việc sau:
 
 -Tính tổng, hiệu, tích, thương hai phân số.
@@ -47,7 +48,7 @@ Viết chương trình khai báo kiểu dữ liệu để biểu diễn một h�
 - Đổi hỗn số sang phân số.
 - Tính tổng, tích hai hỗn số.
 
-### 1.8. [Oxy.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C0/Oxy.cpp)
+### 1.8. [Oxy.cpp](./Oxy.cpp)
 Viết chương trình khai báo kiểu dữ liệu để biểu diễn một điểm trong hệ tọa độ 0xy. Hãy viết hàm thực hiện các công việc sau:
 
 - Tìm những điểm đối xứng của nó qua tung độ, hoành độ, toạ độ tâm.
@@ -75,12 +76,12 @@ Viết chương trình tạo một mảng các phân số. Hãy viết hàm th�
 
 ### 1.13. 
 Tổ chức dữ liệu để quản lí sinh viên bằng cấu trúc mẫu tin trong một mảng N phần tử, mỗi phần tử có cấu trúc như sau:
-
+```
 - Mã sinh viên.
 - Tên.
 - Năm sinh.
 - Điểm toán, lý, hoá, điểm trung bình.
-
+```
 Viết chương trình thực hiện những công việc sau:
 - a) Nhập danh sách các sinh viên cho một lớp học.
 - b) Xuất danh sách sinh viên ra màn hình.
@@ -91,9 +92,9 @@ Viết chương trình thực hiện những công việc sau:
 - g) Tìm sinh viên có tuổi lớn nhất.
 - h) Nhập vào tên của một sinh viên. Tìm và in ra các thông tin liên quan đến sinh viên đó (nếu có).
 
-### 1.14. [VIDEO.cpp](https://github.com/ITUTE/HCMUTE/blob/master/K%E1%BB%B9%20thu%E1%BA%ADt%20l%E1%BA%ADp%20tr%C3%ACnh%20-%20Programming%20Techniques/C0/VIDEO.cpp)
+### 1.14. [VIDEO.cpp](./VIDEO.cpp)
 Tổ chức dữ liệu quản lí danh mục các bộ phim `VIDEO`, các thông tin liên quan đến bộ phim này như sau:
-
+```
 - Tên phim (tựa phim).
 - Thể loại (3 loại : hình sự, tình cảm, hài).
 - Tên đạo diễn.
@@ -101,7 +102,7 @@ Tổ chức dữ liệu quản lí danh mục các bộ phim `VIDEO`, các thôn
 - Tên diễn viên nữ chính.
 - Năm sản xuất.
 - Hãng sản xuất.
-
+```
 Viết chương trình thực hiện những công việc sau:
 - a) Nhập vào bộ phim mới cùng với các thông tin liên quan đến bộ phim này.
 - b) Nhập một thể loại: In ra danh sách các bộ phim thuộc thể loại này.
@@ -117,11 +118,11 @@ Một thư viện cần quản lý thông tin về các đầu sách. Mỗi đ�
 
 ### 1.16. 
 Viết chương trình tạo một mảng danh sách các máy tính của một cửa hàng, thông tin của một máy tính bao gồm:
-
+```
 - Loại máy
 - Nơi sản xuất
 - Thời gian bảo hành
-
+```
 Yêu cầu:
 - a) Viết hàm nhập một dãy các loại máy tính có thông tin như trên.
 - b) Hãy viết hàm thống kê xem có bao nhiêu máy có thời gian bảo hành là 1 năm.
@@ -136,14 +137,14 @@ Yêu cầu:
 
 ### 1.18.
 Một cửa hàng cần quản lý các mặt hàng, thông tin một mặt hàng bao gồm:
-
+```
 - Mã hàng.
 - Tên mặt hàng.
 - Số lượng.
 - Đơn giá.
 - Số lượng tồn.
 - Thời gian bảo hành (tính theo đơn vị tháng).
-
+```
 Hãy nhập vào một danh sách các mặt hàng.
 - a) Tìm mặt hàng có số lượng tồn nhiều nhất.
 - b) Tìm mặt hàng có số lượng tồn ít nhất.
