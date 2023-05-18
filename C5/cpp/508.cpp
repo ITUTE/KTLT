@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define PATH "TamGiacSo.txt"
+#define PATH "508.txt"
 #define SIZE 100
 
 int A[SIZE][SIZE]={0}, M[SIZE][SIZE]={0}, n;
