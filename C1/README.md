@@ -66,7 +66,9 @@ Ai làm cho tổng S lớn hơn 35 là thua. Lập trình cho người chơi v�
 _Hướng dẫn_: Trò chơi được giải quyết bằng phương pháp Lập bảng phương án.
 
 ### 1.13. [Minesweepers.cpp](./Minesweepers.cpp)
-Lập ma trận giá trị bãi mìn cho trò chơi Minesweeper.
+Lập ma trận giá trị bãi mìn cho trò chơi [Minesweeper](https://vi.wikipedia.org/wiki/D%C3%B2_m%C3%ACn_(tr%C3%B2_ch%C6%A1i)).
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Kmines_Expert_Game_with_Numbers_1-8.png)
 
 ### 1.14. (Ma trận kỳ ảo – Ma phương) [N_mp.cpp](./N_mp.cpp) - [MaPhuong.cpp](./MaPhuong.cpp)
 Viết chương trình nhập vào số tự nhiên N (N lẻ), sau đó điền các số từ 1 đến `N^2` vào trong một bảng vuông sao cho tổng các hàng ngang, hàng dọc và 2 đường chéo đều bằng nhau.
