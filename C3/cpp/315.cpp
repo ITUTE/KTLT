@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include <stdlib.h>
-#define PATH "Knight_s Tour 2.txt"
+#define PATH "315.txt"
 #define SIZE 8
 
 int A[SIZE][SIZE] = { 0 };

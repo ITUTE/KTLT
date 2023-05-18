@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define PATH "GiaiThua.txt"
+#define PATH "303.txt"
 
 double GT(int n);				//De quy
 void GT(int n, double &kq);		//De quy duoi

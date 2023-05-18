@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <ctime>
-#define PATH "HanoiTower.txt"
+#define PATH "316.txt"
 
 void HanoiTower(int n, char start, char end, char spare, FILE *f);
 

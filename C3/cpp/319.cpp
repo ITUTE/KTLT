@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #define SIZE 128
-#define PATH "ways.txt"
+#define PATH "319.txt"
 void nhap(int A[][SIZE], int &n);
 void xuat(int A[], int n);
 void traveler();

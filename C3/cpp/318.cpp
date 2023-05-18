@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define PATH "LatinQuare.txt"
+#define PATH "318.txt"
 #define SIZE 100
 
 int A[SIZE][SIZE]={0}, n;
